@@ -1,5 +1,5 @@
 # Bank-Term-Prediction-using---many-classification-models
-The aim of this attempt is to predict if the client will subscribe (yes/no) to a term deposit, by building a many  classification model  such as Logistic regression, Adaboost , Naive bayes, SVM , KNN 
+The aim of this attempt is to predict if the client will subscribe (yes/no) to a term deposit, by building a many  classification model such as Logistic regression, Adaboost , Naive bayes, SVM , KNN.
 
 Categorical Variables :
 
