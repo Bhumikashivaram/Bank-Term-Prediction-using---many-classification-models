@@ -1,28 +1,28 @@
 # Bank-Term-Prediction-using---many-classification-models
-The aim of this attempt is to predict if the client will subscribe (yes/no) to a term deposit, by building a many  classification model such as Logistic regression, Adaboost , Naive bayes, SVM , KNN.
+
+This attempt aims to predict if the client will subscribe (yes/no) to a term deposit, by building many classification models such as Logistic regression, Adaboost, Naive Bayes, SVM, and KNN.
 
 Categorical Variables :
 
-[1] job : admin,technician, services, management, retired, blue-collar, unemployed, entrepreneur, housemaid, unknown, self-employed, student
+[1] job: admin, technician, services, management, retired, blue-collar, unemployed, entrepreneur, housemaid, unknown, self-employed, student
 
-[2] marital : married, single, divorced
+[2] marital: married, single, divorced
 
 [3] education: secondary, tertiary, primary, unknown
 
-[4] default : yes, no
+[4] default: yes, no
 
-[5] housing : yes, no
+[5] housing: yes, no
 
-[6] loan : yes, no
+[6] loan: yes, no
 
-[7] deposit : yes, no (Dependent Variable)
+[7] deposit: yes, no (Dependent Variable)
 
-[8] contact : unknown, cellular, telephone
+[8] contact: unknown, cellular, telephone
 
-[9] month : jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec
+[9] month: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec
 
-[10] poutcome: unknown, other, failure, success
-
+[10] Poutcome: unknown, other, failure, success
 
 Numerical Variables:
 
@@ -36,6 +36,6 @@ Numerical Variables:
 
 [5] campaign
 
-[6] pdays
+[6] plays
 
 [7] previous
